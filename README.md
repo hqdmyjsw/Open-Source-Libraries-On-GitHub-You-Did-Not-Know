@@ -1,2 +1,2 @@
-# Open-Source-Libraries-On-GitHub-You-Did-Not-Know
-你不知道的GitHub开源库
+# 你不知道的GitHub开源库
+> 无聊时在git上搜AA,AB,AB....ZA,ZB,ZC,于是有了这篇《你不知道的GitHub开源库》；其实有些大家还是知道的，我夸张啦，抱歉抱歉！
