@@ -3,6 +3,7 @@
 
 ##一.
 
-> 1. [LMAlertView](https://github.com/lmcd/LMAlertView) `不仅支持文字弹窗，还支持评分，图片添加的弹窗，基于UIAlertView`
+> 1. [LMAlertView](https://github.com/lmcd/LMAlertView)   `不仅支持文字弹窗，还支持评分，图片添加的弹窗，基于UIAlertView`
+2. [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)  `一个自定义的BadgeView`
 
 
