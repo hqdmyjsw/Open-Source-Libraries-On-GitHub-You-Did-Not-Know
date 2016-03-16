@@ -9,10 +9,10 @@
 
 ##弹幕
 > 1. [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
-> > 1.1 [`HJDanmakuDemo使用指导`](http://www.olinone.com/?p=186#comment-1259)
+>> 1.1 [`HJDanmakuDemo使用指导`](http://www.olinone.com/?p=186#comment-1259)
 
 ##键盘弹出与收回
 > 1. [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)
-> > 1.1 [完美主义：实现iOS输入框自动移动](http://www.cocoachina.com/ios/20150922/13521.html)
+>> 1.1 [完美主义：实现iOS输入框自动移动](http://www.cocoachina.com/ios/20150922/13521.html)
 
 
