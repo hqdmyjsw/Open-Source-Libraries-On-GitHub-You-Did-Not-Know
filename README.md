@@ -17,7 +17,8 @@
 
 ##加载gif
 1. [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) `Performant animated GIF engine for iOS`
-2. 
+
+
 ##Other
 1. [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar)  `官方介绍：ObjectiveC additions for humans. Ruby style.`
 2. [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer)  `Thread-safe NSTimer alternative that doesn't retain the target and supports being used with GCD queues.`
