@@ -8,11 +8,15 @@
 > 1. [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)  `一个自定义的BadgeView`
 
 ##弹幕
-→ → → 1. [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) ← ← ←
+1. [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
 > [`HJDanmakuDemo使用指导`](http://www.olinone.com/?p=186#comment-1259)
 
 ##键盘弹出与收回
-→ → → 1. [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) ← ← ←
+1. [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)
 > [`完美主义：实现iOS输入框自动移动 【NgKeyboardTracker介绍】`](http://www.cocoachina.com/ios/20150922/13521.html)
+
+##Other
+1. [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar)  `官方介绍：ObjectiveC additions for humans. Ruby style.`
+2. [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer)  `Thread-safe NSTimer alternative that doesn't retain the target and supports being used with GCD queues.`
 
 
