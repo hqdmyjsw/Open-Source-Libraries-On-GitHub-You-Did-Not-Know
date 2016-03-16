@@ -2,10 +2,10 @@
 > 无聊时在git上搜AA,AB,AB....ZA,ZB,ZC,于是有了这篇《你不知道的GitHub开源库》；其实有些大家还是知道的，我夸张啦，抱歉抱歉！
 
 ##弹窗
-> 1. [LMAlertView](https://github.com/lmcd/LMAlertView)   `不仅支持文字弹窗，还支持评分，图片添加的弹窗，基于UIAlertView`
+1. [LMAlertView](https://github.com/lmcd/LMAlertView)   `不仅支持文字弹窗，还支持评分，图片添加的弹窗，基于UIAlertView`
 
 ##BadgeView
-> 1. [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)  `一个自定义的BadgeView`
+1. [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)  `一个自定义的BadgeView`
 
 ##弹幕
 1. [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
@@ -15,6 +15,9 @@
 1. [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)
 > [`完美主义：实现iOS输入框自动移动 【NgKeyboardTracker介绍】`](http://www.cocoachina.com/ios/20150922/13521.html)
 
+##加载gif
+1. [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) `Performant animated GIF engine for iOS`
+2. 
 ##Other
 1. [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar)  `官方介绍：ObjectiveC additions for humans. Ruby style.`
 2. [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer)  `Thread-safe NSTimer alternative that doesn't retain the target and supports being used with GCD queues.`
