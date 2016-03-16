@@ -8,8 +8,8 @@
 > 1. [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)  `一个自定义的BadgeView`
 
 ##弹幕
-> 1. [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
-   ☺☺☺ [`HJDanmakuDemo使用指导`](http://www.olinone.com/?p=186#comment-1259)
+→ → → 1. [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
+> ☺☺☺ [`HJDanmakuDemo使用指导`](http://www.olinone.com/?p=186#comment-1259)
 
 ##键盘弹出与收回
 > 1. [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)
