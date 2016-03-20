@@ -20,14 +20,17 @@
 
 ##NavBar
 1.[TLYShyNavBar](https://github.com/telly/TLYShyNavBar) `Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!`
-> ![]()
-2.[]()
+2.[CRGradientNavigationBar](https://github.com/chroman/CRGradientNavigationBar) `Custom UINavigationBar subclass which allows gradient coloured navigation bar on iOS 7.`
+3.[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) `Scrollable UINavigationBar that follows the scrolling of a UIScrollView`
+4.[BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) `The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.`
+5.[BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) `A UINavigationBar extension to show loading effects`
+6.[LTNavigationBar](https://github.com/ltebean/LTNavigationBar) `UINavigationBar Category which allows you to change its appearance dynamically`
+
 
 ##StatusBarNotification
 1.[CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) `A library that allows you to easily create text-based notifications that appear on the status bar.`
-> ![]()
 2.[JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) `[iOS] Easy, customizable notifications displayed on top of the statusbar.`
-> ![]()
+
 ##Other
 1. [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar)  `官方介绍：ObjectiveC additions for humans. Ruby style.`
 2. [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer)  `Thread-safe NSTimer alternative that doesn't retain the target and supports being used with GCD queues.`
