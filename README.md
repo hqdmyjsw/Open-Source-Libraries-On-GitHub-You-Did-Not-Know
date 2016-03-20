@@ -18,9 +18,20 @@
 ##加载gif
 1. [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) `Performant animated GIF engine for iOS`
 
+##NavBar
+1.[TLYShyNavBar](https://github.com/telly/TLYShyNavBar) `Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!`
+> ![]()
+2.[]()
 
+##StatusBarNotification
+1.[CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) `A library that allows you to easily create text-based notifications that appear on the status bar.`
+> ![]()
+2.[JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) `[iOS] Easy, customizable notifications displayed on top of the statusbar.`
+> ![]()
 ##Other
 1. [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar)  `官方介绍：ObjectiveC additions for humans. Ruby style.`
 2. [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer)  `Thread-safe NSTimer alternative that doesn't retain the target and supports being used with GCD queues.`
+
+
 
 
