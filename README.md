@@ -3,6 +3,7 @@
 
 ##弹窗
 1. [LMAlertView](https://github.com/lmcd/LMAlertView)   `不仅支持文字弹窗，还支持评分，图片添加的弹窗，基于UIAlertView`
+2. [AFPopupView](https://github.com/AlvaroFranco/AFPopupView)  `A simple to use and functional popup view for iOS`
 
 ##BadgeView
 1. [JSBadgeView](https://github.com/JaviSoto/JSBadgeView)  `一个自定义的BadgeView`
@@ -35,6 +36,8 @@
 ##Other
 1. [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar)  `官方介绍：ObjectiveC additions for humans. Ruby style.`
 2. [MSWeakTimer](https://github.com/mindsnacks/MSWeakTimer)  `Thread-safe NSTimer alternative that doesn't retain the target and supports being used with GCD queues.`
+3. [AFTabledCollectionView](https://github.com/ashfurrow/AFTabledCollectionView)  `How to display a UICollectionView within a UITableViewCell`
+4. []()
 
 
 
